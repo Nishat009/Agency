@@ -1,0 +1,1211 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /************** header start **************/
+    /* .container {
+        width: 90%;
+    } */
+
+    /************* common start **********/
+    .c_btm_padding {
+        padding-bottom: 40px;
+    }
+
+    .c_btn {
+
+        width: 150px;
+        height: 45px;
+        font-size: 14px;
+
+    }
+
+    .c_btn_i {
+        margin: 0 0 0 15px;
+    }
+
+    /************* common end **********/
+
+
+    header {
+        padding: 8px 0;
+    }
+
+    .logo h1 {
+        font-size: 25px;
+    }
+
+    .menu ul li a {
+        margin-bottom: 15px;
+        padding: 0 0px !important;
+    }
+
+    .btn_s {
+        padding: 0 0 0 0px !important;
+
+    }
+
+    /************** header end **************/
+    /************** slider start **************/
+    .s_item {
+        margin: 50px 0px 70px;
+        text-align: center;
+    }
+
+    .s_title {
+        font-size: 35px;
+
+    }
+
+    .s_pa {
+        padding: 5px 0px 10px 0;
+    }
+
+    .sl_btn {
+        margin: 0 auto;
+    }
+
+    .control_btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .control_btn button {
+        margin: 0 auto;
+    }
+
+
+    /************** slider end**************/
+
+    /************** service start**************/
+    .wel_t {
+        margin-top: 20px;
+    }
+
+    .vertcal_line {
+        height: 40px;
+    }
+
+    .wel_t h2 {
+        font-size: 25px;
+    }
+
+    .wel_p p {
+        padding: 25px 0px 0 0px;
+        text-align: justify;
+    }
+
+    .sv_item {
+        margin-top: 40px;
+        padding: 0px 10px 30px;
+    }
+
+    .sv_p {
+        margin-bottom: 25px;
+    }
+
+    /************** service end**************/
+    /************** about us start**************/
+
+    .about_us_t {
+        margin-top: 30px;
+        padding-left: 0px;
+    }
+
+    .about_us_title {
+        padding-bottom: 20px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+
+    .about_us_p_1 {
+        margin-top: 20px;
+
+    }
+
+    .about_btn {
+        margin: 30px auto 0;
+    }
+
+    /************** about us end**************/
+    /************** recent work start**************/
+    .c_nav_tab {
+        margin: 16px 0 0 0;
+    }
+
+    .c_nav_item {
+        margin: 0 0;
+        padding: 8px 9px;
+
+    }
+
+    .r_img {
+        margin: 20px 0 0 0;
+
+    }
+
+    /************** recent work end**************/
+    /************** choose us start**************/
+    .choose_card {
+        margin: 40px 0 0 0;
+    }
+
+    .card_title {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .card_title i {
+        font-size: 40px;
+    }
+
+    .card_title h2 {
+        padding: 5px 12px;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+
+    .card_body_p {
+        padding: 10px 0 18px;
+        text-align: center;
+    }
+
+    /************** choose us end**************/
+
+    /************** staff start**************/
+
+    .staff_card {
+        margin: 40px 0 0 0;
+    }
+
+    .staff_s {
+        top: 50px;
+    }
+
+    .staff_s i {
+        font-size: 20px;
+    }
+
+    /************** staff end**************/
+    /************** pricing start**************/
+    .price_card {
+        margin: 45px 0 0;
+        padding: 0px 12px 30px;
+    }
+
+    .p_basic span {
+        font-size: 16px;
+    }
+
+    .p_num {
+        padding: 28px 0;
+        font-size: 30px;
+    }
+
+    .p_num span {
+        font-size: 18px;
+    }
+
+    .p_li:last-child {
+        padding-bottom: 18px;
+    }
+
+    /************** pricing end**************/
+    /************** buy start***************/
+    .buy_text h2 {
+        padding: 0px 0 20px 0;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .buy_btn {
+        margin: 0 auto;
+    }
+
+    /**************** buy end***************/
+    /*************review start**************/
+
+    .review_card {
+        padding: 20px 20px 40px;
+    }
+
+    .review_card_img {
+
+        padding: 30px 30px 30px;
+
+    }
+
+    .review_card_img img {}
+
+    .review_text {
+        text-align: center;
+    }
+
+
+    .r_text_p {
+        padding-top: 10px;
+
+    }
+
+    .r_text_p_1 {
+        padding-top: 10px;
+    }
+
+
+
+    .review_btn_wrapper {
+        margin-top: 15px;
+        padding: 10px;
+        writing-mode: horizontal-tb;
+        /* text-orientation: sideways; */
+
+    }
+
+    .review_btn_prev {
+        margin: 0px auto 0px auto;
+    }
+
+    .review_btn_wrapper span {
+        width: 15px;
+        margin: -4px;
+        transform: rotate(90deg);
+    }
+
+    .review_btn_wrapper span:nth-child(3) {
+        width: 20px !important;
+
+    }
+
+    .review_btn_next {
+        margin: 0px auto 0px auto;
+    }
+
+    /*************review end**************/
+    /*************contact us start**************/
+
+    .contact_heading h2 {
+        padding: 0 8px;
+        font-size: 25px;
+
+    }
+
+    .contact_form_wapper {
+        margin-top: 10px;
+        padding: 0 10px;
+    }
+
+    .input_wapper {
+        padding-top: 25px;
+    }
+
+    .input_wapper input {
+        padding: 22px 15px 15px;
+    }
+
+    .msg_box {
+        padding: 35px 15px 20px;
+    }
+
+    .submit_btn {
+        margin: 30px auto 35px;
+    }
+
+    /*************contact us end**************/
+
+    /*************footer start*********/
+    .f_footer {
+        padding: 0 0 50px;
+    }
+
+    .s_icon {
+        padding-top: 22px;
+    }
+
+    .c_s_icon {
+        width: 40px;
+        font-size: 20px;
+        margin: 6px 4px;
+    }
+
+
+    .f_first_p {
+        padding: 15px 0px 0;
+    }
+
+
+    .second_f {
+        padding: 20px 0;
+    }
+
+    .second_f_text {
+        text-align: center;
+        line-height: 27px;
+    }
+
+
+    .footer_link {
+        padding-top: 10px;
+        justify-content: center;
+
+    }
+
+    .footer_link li a {
+        padding: 8px;
+    }
+
+
+    /*************footer end*********/
+
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /************** common start **************/
+
+    .c_btm_padding {
+        padding-bottom: 60px;
+    }
+
+    .c_btn {
+        font-size: 14px;
+    }
+
+    /************** common end **************/
+    /************** header start **************/
+
+    header {
+        padding: 14px 0;
+
+    }
+
+    .menu ul li a {
+        margin-bottom: 15px;
+        padding: 0 0px !important;
+    }
+
+
+    .btn_s {
+        padding: 0 0 0 0px !important;
+
+    }
+
+    /************** header end **************/
+    /************** slider start **************/
+    .s_item {
+        margin: 125px 0 105px;
+    }
+
+    .s_title {
+        font-size: 43px;
+    }
+
+    .s_pa {
+        padding: 14px 25px 19px 0;
+    }
+
+    /************** slider end**************/
+    /************** service start**************/
+
+    .wel_t h2 {
+        font-size: 25px;
+    }
+
+
+    .wel_p p {
+        padding: 30px 0 0 0;
+        text-align: justify;
+    }
+
+    .sv_item {
+        margin-top: 60px;
+        padding: 0px 8px 30px;
+    }
+
+    .sv_p {
+        margin-bottom: 25px;
+    }
+
+    /************** service end**************/
+    /************** about us start**************/
+
+    .about_img img {
+        padding: 0 35px;
+    }
+
+    .about_us_t {
+        margin-top: 50px;
+        padding-left: 0px;
+    }
+
+    .about_us_title {
+        padding-bottom: 28px;
+        text-align: center;
+    }
+
+    .about_us_p {
+        line-height: 30px;
+    }
+
+    .about_us_p_1 {
+        margin-top: 28px;
+        line-height: 30px;
+    }
+
+    .about_btn {
+        margin: 35px auto 0;
+    }
+
+    /************** about us end**************/
+    /************** recent work start**************/
+    .c_nav_tab {
+        margin: 30px 0 0 0;
+    }
+
+    .c_nav_item {
+        padding: 10px 6px;
+    }
+
+    .r_img {
+        margin: 25px 0 0 0;
+
+    }
+
+    /************** recent work end**************/
+    /************** choose us start**************/
+    .choose_card {
+        margin: 45px 0 0 0;
+
+    }
+
+    .card_title h2 {
+        padding: 6px 16px;
+
+    }
+
+    .card_title i {
+        font-size: 44px;
+    }
+
+
+    .card_body_p {
+        padding: 12px 0 26px;
+    }
+
+    /************** choose us end**************/
+
+    /************** staff start**************/
+
+    .staff_card {
+        margin: 50px 0 0 0;
+    }
+
+    .staff_s {
+        width: 40px;
+    }
+
+    .staff_s i {
+        font-size: 18px;
+    }
+
+    .staff_title {
+        padding: 16px 20px;
+    }
+
+    .staff_title h2 {
+        font-size: 16px;
+    }
+
+    .staff_title p {
+        font-size: 14px;
+    }
+
+    /************** staff end**************/
+    /************** pricing start**************/
+    .price_card {
+        margin: 50px 0 0;
+        padding: 0px 12px 30px;
+    }
+
+    .p_basic span {
+        font-size: 16px;
+    }
+
+    .p_num {
+        padding: 28px 0;
+        font-size: 30px;
+    }
+
+    .p_num span {
+        font-size: 18px;
+    }
+
+    .p_li:last-child {
+        padding-bottom: 18px;
+    }
+
+    /************** pricing end**************/
+    /************** buy start***************/
+    .buy_text h2 {
+        padding: 14px 0 0 0;
+        font-size: 16px;
+    }
+
+    /**************** buy end***************/
+    /*************review start**************/
+
+    .review_card {
+        padding: 20px;
+    }
+
+    .review_card_img {
+
+        padding: 10px 100px 30px;
+
+    }
+
+    .review_card_img img {
+        height: 270px;
+        border-radius: 50%;
+
+    }
+
+    .review_text {
+        text-align: center;
+    }
+
+    .r_text_t1 {
+        font-size: 20px;
+        padding-bottom: 5px;
+
+    }
+
+    .r_text_t2 {
+        font-size: 20px;
+        padding-bottom: 5px;
+
+    }
+
+    .r_text_t3 {
+        font-size: 20px;
+        padding-bottom: 5px;
+
+
+    }
+
+    .r_text_p {
+        padding-top: 20px;
+    }
+
+    .r_text_p_1 {
+        padding-top: 20px;
+    }
+
+
+
+    .review_btn_wrapper {
+        margin-top: 15px;
+        padding: 10px;
+        writing-mode: horizontal-tb;
+        /* text-orientation: sideways; */
+
+    }
+
+    .review_btn_prev {
+        margin: 0px auto 0px auto;
+    }
+
+    .review_btn_wrapper span {
+        width: 15px;
+        margin: -4px;
+        transform: rotate(90deg);
+    }
+
+    .review_btn_wrapper span:nth-child(3) {
+        width: 20px !important;
+
+    }
+
+    .review_btn_next {
+        margin: 0px auto 0px auto;
+    }
+
+    /*************review end**************/
+    /*************contact us start**************/
+    .contact_heading h2 {
+        padding: 0 8px;
+        font-size: 25px;
+
+    }
+
+    .contact_form_wapper {
+        margin-top: 10px;
+        padding: 0 25px;
+    }
+
+    .input_wapper {
+        padding-top: 25px;
+    }
+
+    /*************contact us end**************/
+
+    /*************footer start*********/
+    .f_footer {
+        padding: 0 0 80px;
+    }
+
+    .c_s_icon {
+        font-size: 20px;
+    }
+
+
+    .f_first_p {
+        padding: 24px 50px 0;
+    }
+
+
+    .second_f {
+        padding: 20px 0;
+    }
+
+    .second_f_text {
+        text-align: center;
+        line-height: 32px;
+    }
+
+
+    .footer_link {
+        justify-content: start;
+    }
+
+    .footer_link li a {
+        width: 129px;
+    }
+
+
+    /*************footer end*********/
+
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /************** common start **************/
+
+    .c_btm_padding {
+        padding-bottom: 60px;
+    }
+
+    /************** common end **************/
+    /************** header start **************/
+
+    header {
+        padding: 14px 0;
+
+    }
+
+    .menu ul li a {
+        margin-bottom: 15px;
+        padding: 0 0px !important;
+    }
+
+    .btn_s {
+        padding: 0 0 0 0px;
+
+    }
+
+    /************** header end **************/
+    /************** slider start **************/
+    .s_item {
+        margin: 142px 0 130px;
+    }
+
+    .s_title {
+        font-size: 50px;
+    }
+
+    .s_pa {
+        padding: 18px 142px 25px 0;
+    }
+
+    /************** slider end**************/
+    /************** service start**************/
+
+    .wel_t h2 {
+        padding-top: 25px;
+    }
+
+
+    .wel_p p {
+        padding: 30px 0 0 0;
+        text-align: justify;
+
+    }
+
+    .sv_item {
+        margin-top: 60px;
+        padding: 0px 15px 35px;
+    }
+
+    /************** service end**************/
+    /************** about us start**************/
+
+    .about_img img {
+        padding: 0 120px;
+    }
+
+    .about_us_t {
+        margin-top: 60px;
+        padding-left: 0px;
+    }
+
+    .about_us_title {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .about_us_p {
+        line-height: 30px;
+
+    }
+
+    .about_us_p_1 {
+        margin-top: 30px;
+        line-height: 30px;
+    }
+
+    .about_btn {
+        margin: 30px auto 0;
+    }
+
+    /************** about us end**************/
+    /************** recent work start**************/
+    .c_nav_tab {
+        margin: 25px 0 0 0;
+    }
+
+    .c_nav_item {
+        padding: 15px 10px;
+    }
+
+    .r_img {
+        margin: 30px 0 0 0;
+    }
+
+    /************** recent work end**************/
+    /************** choose us start**************/
+    .choose_card {
+        margin: 45px 0 0 0;
+    }
+
+    .card_title h2 {
+        padding: 6px 16px;
+
+    }
+
+    .card_title i {
+        font-size: 44px;
+    }
+
+    .card_body_p {
+        padding: 10px 0 28px;
+    }
+
+    /************** choose us end**************/
+    /************** staff start**************/
+
+    .staff_card {
+        margin: 50px 0 0 0;
+    }
+
+    .staff_s {
+        top: 90px;
+    }
+
+    .staff_s i {
+        font-size: 18px;
+    }
+
+    /************** staff end**************/
+
+    /************** pricing start**************/
+    .price_card {
+        margin: 50px 0 0;
+    }
+
+    /************** pricing end**************/
+    /*************review start**************/
+    .review_card {
+        padding: 20px;
+    }
+
+    .r_text_p {
+        padding-top: 20px;
+
+    }
+
+    .r_text_p_1 {
+        padding-top: 20px;
+
+    }
+
+    .review_btn_prev {
+        margin: 25px 0 80px 0;
+        font-size: 14px;
+
+    }
+
+    .review_btn_wrapper span {
+        width: 15px;
+    }
+
+    .review_btn_wrapper span:nth-child(3) {
+        width: 20px !important;
+
+    }
+
+    .review_btn_next {
+        margin: 80px 0 25px 0;
+        font-size: 14px;
+    }
+
+    /*************review end**************/
+    /*************contact us start*********/
+    .contact_form_wapper {
+        margin-top: 10px;
+        padding: 0 80px;
+    }
+
+    .input_wapper {
+        padding-top: 50px;
+    }
+
+    .input_wapper input {
+        padding: 30px 15px 10px;
+
+    }
+
+    .msg_box {
+        padding: 40px 15px 30px;
+    }
+
+    .submit_btn {
+        margin: 30px auto 35px;
+    }
+
+    /*************contact us end*********/
+    /*************footer start*********/
+    .f_footer {
+        padding: 0 0 100px;
+    }
+
+    .f_first_p {
+        padding: 28px 118px 0;
+    }
+
+
+    .second_f {
+        padding: 20px 0;
+    }
+
+    .second_f_text {
+        text-align: center;
+        line-height: 30px;
+    }
+
+
+    .footer_link {
+        justify-content: center;
+    }
+
+    /*************footer end*********/
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /************** common start **************/
+    .c_btm_padding {
+        padding-bottom: 80px;
+    }
+
+    /************** common end **************/
+    /************** slider start **************/
+    .s_title {
+        font-size: 55px;
+    }
+
+    .s_pa {
+        padding: 18px 0px 25px 0;
+    }
+
+    /************** slider end**************/
+    /************** service start**************/
+
+    .wel_t h2 {
+        padding-top: 25px;
+    }
+
+    .wel_p p {
+        padding: 40px 0 0 0;
+    }
+
+    .sv_item {
+        padding: 0px 8px 25px;
+        margin-top: 65px;
+
+    }
+
+    .sv_icon i {
+        font-size: 55px;
+        line-height: 24px;
+    }
+
+    .sv_p {
+        margin-bottom: 25px;
+    }
+
+    /************** service end**************/
+    /************** about us start**************/
+    .about_us_title {
+        padding-bottom: 25px;
+    }
+
+    .about_us_p {
+        -webkit-line-clamp: 3;
+    }
+
+
+    .about_us_p_1 {
+        margin-top: 25px;
+        -webkit-line-clamp: 2;
+    }
+
+    .about_btn {
+        margin-top: 34px;
+    }
+
+    /************** about us end**************/
+    /************** choose us start**************/
+    .choose_card {
+        margin: 50px 0 0 0;
+    }
+
+    .card_body_p {
+        padding: 10px 0 28px;
+    }
+
+    /************** choose us end**************/
+    /************** recent start**************/
+    .c_nav_tab {
+        margin: 50px 0 0;
+    }
+
+    .c_nav_item {
+
+        padding: 12px 15px;
+
+    }
+
+    /************** recent end**************/
+    /************** staff start**************/
+
+    .staff_card {
+        margin: 50px 0 0 0;
+    }
+
+    .staff_s {
+        top: 30px;
+    }
+
+    .staff_s i {
+        font-size: 16px;
+    }
+
+    .staff_title h2 {
+        font-size: 16px;
+    }
+
+    .staff_title p {
+        font-size: 14px;
+    }
+
+    /************** staff end**************/
+    /************** pricing start**************/
+
+    .price_card {
+        padding: 0px 12px 30px;
+    }
+
+    .p_basic span {
+        font-size: 16px;
+    }
+
+    .p_num {
+        padding: 28px 0;
+        font-size: 30px;
+    }
+
+    .p_num span {
+        font-size: 18px;
+    }
+
+    .p_li:last-child {
+        padding-bottom: 18px;
+    }
+
+    /************** pricing end**************/
+    /************** buy start***************/
+
+    .buy_text h2 {
+        padding: 14px 0 0 0;
+        font-size: 16px;
+    }
+
+    /**************** buy end***************/
+    /*************review start**************/
+
+    .r_text_p {
+        padding-top: 20px;
+        -webkit-line-clamp: 2;
+
+    }
+
+    .r_text_p_1 {
+        padding-top: 20px;
+        -webkit-line-clamp: 1;
+
+    }
+
+    .review_btn_prev {
+        margin: 24px 0 60px 0;
+    }
+
+    .review_btn_next {
+        margin: 60px 0 24px 0;
+    }
+
+    /*************review end**************/
+    /*************contact us start*********/
+    .contact_form_wapper {
+        padding: 0 100px;
+    }
+
+    .input_wapper {
+        padding-top: 50px;
+    }
+
+    /*************contact us end*********/
+    /*************footer start*********/
+    .f_footer {
+        padding: 0 0 110px;
+    }
+
+    .c_s_icon {
+        width: 46px;
+        margin: 4px;
+        font-size: 24px;
+
+    }
+
+    .second_f {
+        padding: 30px 0;
+    }
+
+
+    /*************footer end*********/
+
+
+
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /************** about us start**************/
+    .about_us_title {
+        padding-bottom: 34px;
+    }
+
+    .about_us_p {
+        -webkit-line-clamp: 4;
+        line-height: 28px;
+    }
+
+
+    .about_us_p_1 {
+        margin-top: 35px;
+        -webkit-line-clamp: 2;
+        line-height: 28px;
+    }
+
+    /************** about us end**************/
+    /************** choose us start**************/
+    .card_body_p {
+        padding: 10px 0 28px;
+    }
+
+    /************** choose us end**************/
+    /************** staff start**************/
+
+    .staff_s {
+        top: 42px;
+    }
+
+    .staff_s i {
+        font-size: 20px;
+    }
+
+    .staff_title h2 {
+        font-size: 17px;
+    }
+
+    .staff_title p {
+        font-size: 15px;
+    }
+
+    /************** staff end**************/
+    /************** pricing start**************/
+    .price_card {
+        padding: 0px 24px 40px;
+    }
+
+    /************** pricing end**************/
+    /*************review start**************/
+
+    .r_text_p {
+        padding-top: 20px;
+    }
+
+    .r_text_p_1 {
+        padding-top: 20px;
+
+    }
+
+
+
+    .review_btn_prev {
+        margin: 20px 0 90px 0;
+    }
+
+    .review_btn_next {
+        margin: 90px 0 20px 0;
+    }
+
+    /*************review end**************/
+
+}
+
+
+
+/* Extra-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
